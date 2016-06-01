@@ -1,4 +1,4 @@
-#H1 Instructions 
+# Instructions 
  1. In order to correctly run this script, the following files must be availble in your current working directory
 activity_labels.txt
 features.txt
